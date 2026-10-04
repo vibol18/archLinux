@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@config '../tailwind.config.js';
+
+body {
+  background-color: #0B0D10;
+  color: #D8DEE9;
+  font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, monospace;
+}
+
+.xterm {
+  padding: 4px;
+}
